@@ -4,7 +4,7 @@ class GdbServer():
     fileName = 'demo'
 
     def __init__(self):
-        print('GdbServer init')
+        print('\n=========> GdbServer init')
 
     def start(self):
         print('=========> come in the start')
