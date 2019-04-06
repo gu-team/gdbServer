@@ -2,4 +2,8 @@
 
 a server work in gdb
 
-## how to run
+## how to install
+
+```bash
+pip install -r requirements.txt
+```
